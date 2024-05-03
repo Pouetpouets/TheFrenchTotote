@@ -1,0 +1,101 @@
+/* fonts.css */
+@font-face {
+  font-family: 'GustavoBold';
+  src: url('./fonts/gustavo_trial/Gustavo_trial-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GustavoBoldItalic';
+  src: url('./fonts/gustavo_trial/Gustavo_trial-BoldItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GustavoLight';
+  src: url('./fonts/gustavo_trial/Gustavo_trial-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GustavoLightItalic';
+  src: url('./fonts/gustavo_trial/Gustavo_trial-LightItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GustavoMedium';
+  src: url('./fonts/gustavo_trial/Gustavo_trial-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GustavoMediumItalic';
+  src: url('./fonts/gustavo_trial/Gustavo_trial-MediumItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GustavoRegular';
+  src: url('./fonts/gustavo_trial/Gustavo_trial-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GustavoRegularItalic';
+  src: url('./fonts/gustavo_trial/Gustavo_trial-RegularItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GustavoThin';
+  src: url('./fonts/gustavo_trial/Gustavo_trial-Thin.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'GustavoRegularThinItalic';
+  src: url('./fonts/gustavo_trial/Gustavo_trial-ThinItalic.otf') format('opentype');
+}
+
+/* fonts.css */
+@font-face {
+  font-family: 'TartuffoBold';
+  src: url('./fonts/tartuffo_trial/Tartuffo_trial-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'TartuffoBoldItalic';
+  src: url('./fonts/tartuffo_trial/Tartuffo_trial-BoldItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'TartuffoLight';
+  src: url('./fonts/tartuffo_trial/Tartuffo_trial-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'TartuffoLightItalic';
+  src: url('./fonts/tartuffo_trial/Tartuffo_trial-LightItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'TartuffoMedium';
+  src: url('./fonts/tartuffo_trial/Tartuffo_trial-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'TartuffoMediumItalic';
+  src: url('./fonts/tartuffo_trial/Tartuffo_trial-MediumItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'TartuffoRegular';
+  src: url('./fonts/tartuffo_trial/Tartuffo_trial-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'TartuffoRegularItalic';
+  src: url('./fonts/tartuffo_trial/Tartuffo_trial-RegularItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'TartuffoThin';
+  src: url('./fonts/tartuffo_trial/Tartuffo_trial-Thin.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'TartuffoRegularThinItalic';
+  src: url('./fonts/tartuffo_trial/Tartuffo_trial-ThinItalic.otf') format('opentype');
+}

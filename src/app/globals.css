@@ -31,3 +31,10 @@ body {
     text-wrap: balance;
   }
 }
+
+.custom-text {
+  font-family: 'GustavoRegular';
+}
+.custom-text2 {
+  font-family: 'TartuffoBold';
+}
