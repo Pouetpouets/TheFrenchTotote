@@ -13,7 +13,6 @@ import { Video } from "./ui/video";
 export default function Home() {
   return (
     <main className="p-0">
-
       <Video />
       <navbar>
         logo <button>acheter</button>
@@ -45,25 +44,22 @@ export default function Home() {
       <Image src={Plugntote} alt="plug-n-tote" />
 
       <div className="flex-col">
-      <p className="title">
-      technologie plug’n’tote
-        </p>
+        <p className="title">technologie plug’n’tote</p>
         <p className="text">
-        La tototte est équipée de la <span className="bold">technologie
-        plug'n'tote </span> , permettant de
-        changer de plug à volonté, offrant ainsi un accès à <span>
-        une gamme infinie de
-        saveurs de suçotage
-          </span>pour satisfaire tous les goûts.
+          La tototte est équipée de la{" "}
+          <span className="bold">technologie plug'n'tote </span> , permettant de
+          changer de plug à volonté, offrant ainsi un accès à{" "}
+          <span>une gamme infinie de saveurs de suçotage</span>pour satisfaire
+          tous les goûts.
         </p>
       </div>
 
       <div className="flex-col">
         <p className="text">
-        Cette technologie vous permet de changer en un clin d’œil de saveur pour <span>  voyager du bout des lèvres.</span>
+          Cette technologie vous permet de changer en un clin d’œil de saveur
+          pour <span> voyager du bout des lèvres.</span>
         </p>
       </div>
-
 
       <button>Découvrir les saveurs</button>
     </main>
